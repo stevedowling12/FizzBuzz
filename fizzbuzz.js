@@ -2,7 +2,7 @@ var count, fizzer, buzzer, fizzbuzzer;
 
 	count = function(start, end) {
 
-	// initilaize the output
+	// initilaize the output.
 	var output = buzzer(fizzer(fizzbuzzer (start)));
 
 	// modify output to conatin desired sequence
